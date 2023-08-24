@@ -1,5 +1,6 @@
 *.json
 *.jpg
 *.txt
+*.pyc
 crop-image.py 
 showtext.py
